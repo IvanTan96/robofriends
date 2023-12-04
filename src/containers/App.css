@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "YoungSerif-Regular";
+    font-style: normal;
+    src: url(./YoungSerif-Regular.ttf);
+}
+
+h1 {
+    font-family: "YoungSerif-Regular";
+    font-weight: 200;
+    color: #0ccac4;
+}
